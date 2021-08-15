@@ -1,0 +1,84 @@
+REM Discord Spam Script by atomiczsec
+REM Do NOT use this in any harmful way... this is for testing and fun only!
+REM Will ping @ everyone 25 times
+
+DELAY 300
+STRING @everyone 
+ENTER
+DELAY 100
+STRING @everyone 
+ENTER
+DELAY 100
+STRING @everyone 
+ENTER
+DELAY 100
+STRING @everyone 
+ENTER
+DELAY 100
+STRING @everyone 
+ENTER
+DELAY 100
+STRING @everyone 
+ENTER
+DELAY 100
+STRING @everyone 
+ENTER
+DELAY 100
+STRING @everyone 
+ENTER
+DELAY 100
+STRING @everyone 
+ENTER
+DELAY 100
+STRING @everyone 
+ENTER
+DELAY 100
+STRING @everyone 
+ENTER
+DELAY 300
+STRING @everyone 
+ENTER
+DELAY 100
+STRING @everyone 
+ENTER
+DELAY 100
+STRING @everyone 
+ENTER
+DELAY 100
+STRING @everyone 
+ENTER
+DELAY 100
+STRING @everyone 
+ENTER
+DELAY 100
+STRING @everyone 
+ENTER
+DELAY 300
+STRING @everyone 
+ENTER
+DELAY 100
+STRING @everyone 
+ENTER
+DELAY 100
+STRING @everyone 
+ENTER
+DELAY 100
+STRING @everyone 
+ENTER
+DELAY 100
+STRING @everyone 
+ENTER
+DELAY 300
+STRING @everyone 
+ENTER
+DELAY 100
+STRING @everyone 
+ENTER
+DELAY 100
+ENTER
+DELAY 100
+ENTER
+DELAY 100
+ENTER
+DELAY 100
+ENTER
